@@ -1,0 +1,12 @@
+/* FONT AWESOME (lokal via NPM) */
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+/* TAILWIND */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CUSTOM STYLE TAMBAHAN (opsional) */
+body {
+  font-family: 'Figtree', sans-serif;
+}
